@@ -86,6 +86,9 @@ body{
         margin-right: 16px;
         font-size: 20px;
     }
+    .save-icon-spacing{
+        margin-right: 8px;
+    }
     .liked-by{
         display: flex;
         align-items: center;
