@@ -58,11 +58,13 @@ body{
     .profile-img{
         height: 40px;
         border-radius: 50px;
-        margin: 6px;
+        margin-top: 6px;
+        margin-bottom: 6px;
+        margin-left: 0px;
         border: 2px solid lightslategray;
     }
     .profile-name{
-        margin: 13px 6px;
+        margin: 15px 6px;
     }
     .opt{
         margin: 15px 8px;
@@ -123,4 +125,5 @@ body{
     }
 
 }
+
 
